@@ -2,7 +2,7 @@
   "name": "angular-bacics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gayashan8907.github.io/React_project1",
+  "homepage": "https://gayashan8907.github.io/react-project1",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
